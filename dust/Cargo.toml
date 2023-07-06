@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "dust-cli",
+  "dust-core",
+  "dust-dart",
+]
